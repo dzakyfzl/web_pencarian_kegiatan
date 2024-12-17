@@ -1,9 +1,10 @@
 {
   "name": "tubes-aka",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "router.js",
+  "type": "commonjs",
   "scripts": {
-    "dev": "node ./Frontend/index.js"
+    "dev": "node router.js | npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
   },
   "keywords": [],
   "author": "",
@@ -11,5 +12,8 @@
   "description": "",
   "dependencies": {
     "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
   }
 }
