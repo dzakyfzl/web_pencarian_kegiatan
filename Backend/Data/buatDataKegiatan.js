@@ -1,6 +1,8 @@
+const runtime = require('../System/reportRuntime')
 const fs = require('fs')
 const data = require('../System/data.js')
 const WriteLog = require('../System/logging.js')
+const { timeEnd } = require('console')
 const fakultas = ['FIF','FRI','FTE','FEB','FKS','FIK','FIT']
 const jenisKegiatan = ['Lomba','Seminar','Webinar','Kompetisi']
 let dataKegiatan = []
@@ -15,6 +17,7 @@ var kegiatan = {
 
 
 WriteLog('BuatData','data mulai dibuat','START')
+const start = runtime.timeStart()
 //Proses data Prodi
 for(let i = 0;i < data.prodiFIF.length;i++){
     for(let j = 0;j < data.MinatBakat.length;j++){
@@ -130,6 +133,7 @@ for(let i = 0;i < fakultas.length;i++){
         }
     }
 }
+runtime.timeEnd(start)
 WriteLog('BuatData','data berhasil dibuat','FINISH')
 
 fs.appendFile('./Backend/Data/kegiatan.json',JSON.stringify(dataKegiatan),(err)=>{

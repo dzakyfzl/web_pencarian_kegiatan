@@ -208,6 +208,8 @@ function buatTabelKegiatan(data){
     dataKegiatan = data
 }
 
+
+//Data Berangsur-angsur ditampilkan pada HTML
 tableContainer.addEventListener('scroll',scrollHandler)
 
 function scrollHandler(){

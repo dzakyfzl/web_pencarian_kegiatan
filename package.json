@@ -4,14 +4,16 @@
   "main": "router.js",
   "type": "commonjs",
   "scripts": {
-    "dev": "node router.js | npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "dev": "node router.js | npx tailwindcss -i ./src/input.css -o ./src/output.css --watch",
+    "build": "node router.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "microseconds": "^0.2.0"
   },
   "devDependencies": {
     "tailwindcss": "^3.4.16"
