@@ -1,0 +1,6 @@
+18-11-2024 21:8:1.728 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+18-11-2024 21:8:7.102 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+18-11-2024 21:8:7.108 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+18-11-2024 21:8:7.115 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+18-11-2024 21:8:17.752 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FKS"} masuk kedalam fungsi
+18-11-2024 21:8:17.755 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FKS

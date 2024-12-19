@@ -1,6 +1,7 @@
 const WriteLog = require('./System/logging')
 const data = require('./System/data')
 const dataKegiatan = require('./Data/kegiatan.json')
+const Recursive = require('./MainAlgorithm/recursive')
 
 const returnToSender = (req,res)=>{
     res.status(200)
@@ -102,7 +103,7 @@ function filterJumlahData(data,requests){
 
 function prosesPencarian(requests,data){
     if(requests.Recursive){
-        return data //Recursive()
+        return Recursive.Recursive(requests,data)
     }else{
         return data //Iterative()
     }

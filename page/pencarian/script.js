@@ -190,9 +190,10 @@ sumbission.addEventListener('click',()=>{
 function buatTabelKegiatan(data){
     tableBody.innerHTML = ` `
     var divider = Math.floor(data.length / maxData)
-    if(data.length <= 500){
+    var dataLength = 0
+    if(data.length <= maxData){
         dataLength = data.length
-    }else{
+    }else if(data.length >= maxData){
         dataLength = Math.floor(data.length / divider)
     }
     for(let i = 0;i < dataLength;i++){
@@ -206,6 +207,7 @@ function buatTabelKegiatan(data){
     }
     lastDataIndex = dataLength - 1
     dataKegiatan = data
+    console.log(data)
 }
 
 
@@ -220,10 +222,14 @@ function scrollHandler(){
 
 function tambahTabelKegiatan(data){
     let i
-    if(data.length <= maxData){
-        dataLength = data.length
+    console.log('before',dataLength,lastDataIndex)
+    if(data.length - lastDataIndex <= maxData){
+        dataLength = data.length - lastDataIndex
+    }else if(data.length - lastDataIndex > maxData && lastDataIndex <= data.length){
+        dataLength = maxData
     }
-    for(i = lastDataIndex;i < lastDataIndex + dataLength + 1;i++){
+    console.log(dataLength,lastDataIndex,dataLength+lastDataIndex)
+    for(i = lastDataIndex;i < lastDataIndex + dataLength;i++){
         tableBody.innerHTML += `<tr class="text-center">
                                   <td class="px-4 py-2">${data[i].namaKegiatan}</td>
                                   <td class="px-4 py-2">${data[i].fakultasKegiatan}</td>
