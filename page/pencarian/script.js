@@ -197,6 +197,9 @@ function buatTabelKegiatan(data){
         dataLength = Math.floor(data.length / divider)
     }
     for(let i = 0;i < dataLength;i++){
+        if(data[i] === 0){
+            i++
+        }
         tableBody.innerHTML += `<tr class="text-center">
                                   <td class="px-4 py-2">${data[i].namaKegiatan}</td>
                                   <td class="px-4 py-2">${data[i].fakultasKegiatan}</td>
@@ -230,6 +233,9 @@ function tambahTabelKegiatan(data){
     }
     console.log(dataLength,lastDataIndex,dataLength+lastDataIndex)
     for(i = lastDataIndex;i < lastDataIndex + dataLength;i++){
+        if(data[i] === 0){
+            i++
+        }
         tableBody.innerHTML += `<tr class="text-center">
                                   <td class="px-4 py-2">${data[i].namaKegiatan}</td>
                                   <td class="px-4 py-2">${data[i].fakultasKegiatan}</td>

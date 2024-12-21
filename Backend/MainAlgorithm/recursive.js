@@ -1,4 +1,3 @@
-const runtime = require('../System/reportRuntime')
 /*
 isi requests = {
     "FakultasAktif":Boolean,
@@ -37,56 +36,38 @@ function Recursive(requests,data){
 }
 
 function rekursifFakultas(requests,data,n){
-    var arrayData = []
     if(n >= 0){
         if(requests.fakultas == data[n].fakultasKegiatan){
-            var arrayRecursion = rekursifFakultas(requests,data,n-1)
-            for(let i = 0;i < arrayRecursion.length;i++){
-                arrayData.push(arrayRecursion[i])
-            }
-            arrayData.push(data[n])
-            return arrayData
+            return [...rekursifFakultas(requests,data,n-1),data[n]]
         }else{
             return rekursifFakultas(requests,data,n-1)
         }
     }else{
-        return 0;
+        return [];
     }
 }
 
 function rekursifProdi(requests,data,n){
-    var arrayData = []
     if(n >= 0){
         if(requests.prodi === data[n].prodiKegiatan){
-            var arrayRecursion = rekursifProdi(requests,data,n-1)
-            for(let i = 0;i < arrayRecursion.length;i++){
-                arrayData.push(arrayRecursion[i])
-            }
-            arrayData.push(data[n])
-            return arrayData
+            return [...rekursifProdi(requests,data,n-1),data[n]]
         }else{
             return rekursifProdi(requests,data,n-1)
         }
     }else{
-        return 0;
+        return [];
     }
 }
 
 function rekursifMinatBakat(requests,data,n){
-    var arrayData = []
     if(n >= 0){
         if(requests.MinatBakat == data[n].minatBakatKegiatan){
-            var arrayRecursion = rekursifMinatBakat(requests,data,n-1)
-            for(let i = 0;i < arrayRecursion.length;i++){
-                arrayData.push(arrayRecursion[i])
-            }
-            arrayData.push(data[n])
-            return arrayData
+            return [...rekursifProdi(requests,data,n-1),data[n]]
         }else{
             return rekursifMinatBakat(requests,data,n-1)
         }
     }else{
-        return 0;
+        return [];
     }
 }
 

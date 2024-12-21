@@ -2,6 +2,9 @@ const WriteLog = require('./System/logging')
 const data = require('./System/data')
 const dataKegiatan = require('./Data/kegiatan.json')
 const Recursive = require('./MainAlgorithm/recursive')
+const Iterative = require('./MainAlgorithm/iterative.js')
+const runtime = require('./System/reportRuntime')
+const dataRunningTime = require('../Runtime/runtime.json')
 
 const returnToSender = (req,res)=>{
     res.status(200)
@@ -60,12 +63,10 @@ const cariKegiatan = (req,res) =>{
     const requests = req.body
     if(requests.JumlahData === 0){
         WriteLog('cariKegiatan',`Data tidak lengkap`,'ERROR')
-        res.status(400)
-        res.send(400)
+        res.sendStatus(400)
     }else{
         WriteLog('cariKegiatan','Data berhasil masuk','BERHASIL')
-        var responses = filterJumlahData(dataKegiatan,req.body)
-        responses = prosesPencarian(req.body,responses)
+        var responses = prosesPencarian(req.body,dataKegiatan)
         
         res.status(200)
         res.send(responses)
@@ -73,16 +74,28 @@ const cariKegiatan = (req,res) =>{
     }
 }
 
-function filterJumlahData(data,requests){
+function prosesPencarian(requests,data){
     var dataTerfilter = []
+    var dataTerfilter2 = []
+    var dataHasilPencarian = []
     var iR
-    iF = 0
+    var startRuntime
     if(requests.JumlahData === 10000){
-        dataTerfilter = dataKegiatan
+        for(iR = 0;iR < data.length/2;iR++){
+            dataTerfilter.push(data[iR])
+        }
+        for(iR = data.length/2;iR < data.length;iR++){
+            dataTerfilter2.push(data[iR])
+        }
     }else if(requests.JumlahData === 7500){
-        for(iR = 0;iR < data.length;iR++){
+        for(iR = 0;iR < data.length/2;iR++){
             if(data[iR].jenisKegiatan != 'Kompetisi'){
                 dataTerfilter.push(data[iR])
+            }
+        }
+        for(iR = data.length/2;iR < data.length;iR++){
+            if(data[iR].jenisKegiatan != 'Kompetisi'){
+                dataTerfilter2.push(data[iR])
             }
         }
     }else if(requests.JumlahData === 5000){
@@ -98,15 +111,33 @@ function filterJumlahData(data,requests){
             }
         }
     }
-    return dataTerfilter
-}
-
-function prosesPencarian(requests,data){
     if(requests.Recursive){
-        return Recursive.Recursive(requests,data)
+        startRuntime = runtime.timeStart()
+        const dibagi = dataTerfilter2.length
+        if(dibagi != 0){
+            dataTerfilter2 = Recursive.Recursive(requests,dataTerfilter2)
+            console.log(dataTerfilter2.length)
+        }
+        dataTerfilter =  Recursive.Recursive(requests,dataTerfilter)
+        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
+        runtime.timeEnd(startRuntime,requests.JumlahData,'Rekursif')
     }else{
-        return data //Iterative()
+        startRuntime = runtime.timeStart()
+        const dibagi = dataTerfilter2.length
+        if(dibagi != 0){
+            dataTerfilter2 = Iterative.Iterative(requests,dataTerfilter2)
+        }
+        dataTerfilter =  Iterative.Iterative(requests,dataTerfilter)
+        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
+        runtime.timeEnd(startRuntime,requests.JumlahData,'Iteratif')
     }
+    return dataHasilPencarian
 }
 
-module.exports = {returnToSender,dataProdi,dataMinatBakat, cariKegiatan};
+function dataRuntime(req,res){
+    res.status(200)
+    res.send(dataRunningTime)
+    WriteLog('dataRuntime','Data runtime berhasil dikirimkan ke cilent','BERHASIL')
+}
+
+module.exports = {returnToSender,dataProdi,dataMinatBakat, cariKegiatan,dataRuntime};

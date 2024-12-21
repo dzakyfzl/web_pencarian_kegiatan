@@ -26,6 +26,8 @@ app.get('/api/dataMinatBakat',backend.dataMinatBakat)
 
 app.post('/api/cariKegiatan',backend.cariKegiatan)
 
+app.get('/api/dataRuntime',backend.dataRuntime)
+
 //Memulai Server
 app.listen(port,()=>{
     WriteLog('Router',`Server Dimulai pada http://localhost:${port}`,'BERHASIL')

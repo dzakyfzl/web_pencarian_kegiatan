@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+  <title>Pencarian Kegiatan</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="/src/img/favicon.ico">
+  <link href="/src/output.css" rel="stylesheet">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+  <!-- FONT IMPORT -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+    </style>
+
+</head>
+<body class="bg-gradient-to-b from-gray-800 to-black justify-center h-screen max-h-screen">
+    <header class="h-14 px-4 bg-gray-900 shadow-xl flex top-0 justify-between items-center z-30">
+      <a href="/" class="left-0">
+        <img class="h-10" src="/src/img/Logo.png">
+      </a>
+        <div class="right-0 flex">
+            <div class="justify-between flex">
+              <div id="vito"><img class="w-10 h-10 mx-1 bg-white rounded-full  border-2 border-gray-500 hover:border-green-500  transition-all duration-500" src="/src/img/vito.JPG"></div>
+              <div id="dzaky"><img class="w-10 h-10 mx-1 bg-white rounded-full border-2 border-gray-500  hover:border-green-500  transition-all duration-500" src="/src/img/dzaky.jpg"></div>
+            </div>
+        </div>
+    </header>
+    <div class="text-white text-center font-inter items-center justify-center p-20 z-20 align-middle">
+        <div class="rounded-xl border-[1px] border-gray-700 bg-slate-900 py-10 px-10 flex">
+            <canvas id="myChart" style="width:100%;max-width:600px;background-color: white;padding: 3rem;border-radius: 2rem;border-width: 2px;border-color: black;"></canvas>
+            <div class="m-10 text-white font-openSans font-semibold text-left">
+                <div class="mb-5">
+                    Average Runtime 2520 Data <div id="2500-I" class="font-extralight">Iterative : </div>
+                </div>
+                <div class="mb-5">
+                    Average Runtime 5040 Data
+                </div>
+                <div class="mb-5">
+                    Average Runtime 7560 Data
+                </div>
+                <div class="mb-5">
+                    Average Runtime 10080 Data
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+<script src="script.js"></script>

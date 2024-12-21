@@ -10,7 +10,7 @@ isi requests = {
     "Recursive":Boolean,
     "JumlahData":Int
 }
-{
+isi data = {
     "namaKegiatan": String,
     "fakultasKegiatan": String,
     "minatBakatKegiatan": String,
@@ -19,17 +19,52 @@ isi requests = {
 }
 */
 function Iterative(requests,data){
-    var dataHasil;
+    var dataHasil = data
+
     if(requests.FakultasAktif && !requests.ProdiAktif){
         //Fungsi Iteratif Fakultas
+        dataHasil = IterativeFakultas(requests,dataHasil)
     }
     if(requests.ProdiAktif && requests.prodi != 'Semua Program Studi'){
         //Fungsi Iteratif Prodi
+        dataHasil = IterativeProdi(requests,dataHasil)
     }
     if(requests.MinatBakatAktif){
         //Fungsi Iteratif Minat Bakat
+        dataHasil = IterativeMinatBakat(requests,dataHasil)
     }
-    return dataHasil
+
+    return dataHasil;
 }
 
-module.exports = {Iterative}
+function IterativeFakultas(requests,data){
+    var hasil=[]
+    for(let i = 0; i < data.length; i++){
+        if(requests.fakultas === data[i].fakultasKegiatan){
+            hasil.push(data[i])
+        }
+    } 
+    return hasil;
+}
+
+function IterativeProdi(requests,data){
+    var hasil=[]
+    for(let i = 0; i < data.length; i++){
+        if(requests.prodi === data[i].prodiKegiatan){
+            hasil.push(data[i])
+        }
+    }
+    return hasil;
+}
+
+function IterativeMinatBakat(requests,data){
+    var hasil=[]
+    for(let i = 0; i < data.length; i++){
+        if(requests.MinatBakat === data[i].minatBakatKegiatan){
+            hasil.push(data[i])
+        }
+    }
+    return hasil;
+}
+
+module.exports = {Iterative};
