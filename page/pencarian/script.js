@@ -225,15 +225,17 @@ function scrollHandler(){
 
 function tambahTabelKegiatan(data){
     let i
-    console.log('before',dataLength,lastDataIndex)
     if(data.length - lastDataIndex <= maxData){
         dataLength = data.length - lastDataIndex
     }else if(data.length - lastDataIndex > maxData && lastDataIndex <= data.length){
         dataLength = maxData
     }
-    console.log(dataLength,lastDataIndex,dataLength+lastDataIndex)
+
     for(i = lastDataIndex;i < lastDataIndex + dataLength;i++){
         if(data[i] === 0){
+            i++
+        }
+        if(lastDataIndex == data.length-1){
             i++
         }
         tableBody.innerHTML += `<tr class="text-center">

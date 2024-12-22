@@ -62,7 +62,7 @@ function rekursifProdi(requests,data,n){
 function rekursifMinatBakat(requests,data,n){
     if(n >= 0){
         if(requests.MinatBakat == data[n].minatBakatKegiatan){
-            return [...rekursifProdi(requests,data,n-1),data[n]]
+            return [...rekursifMinatBakat(requests,data,n-1),data[n]]
         }else{
             return rekursifMinatBakat(requests,data,n-1)
         }
