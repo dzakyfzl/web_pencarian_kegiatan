@@ -19,10 +19,12 @@ isi requests = {
 */
 
 function Recursive(requests,data){
-    var dataHasil = data
+    var dataHasil = []
+    dataHasil = data
     if(requests.FakultasAktif && !requests.ProdiAktif){
         //Fungsi Rekursif Fakultas
         dataHasil = rekursifFakultas(requests,dataHasil,dataHasil.length-1)
+
     }
     if(requests.ProdiAktif && requests.prodi != 'Semua Program Studi'){
         //Fungsi Rekursif Prodi
@@ -35,39 +37,36 @@ function Recursive(requests,data){
     return dataHasil
 }
 
-function rekursifFakultas(requests,data,n){
+function rekursifFakultas(requests,data,n,result = []){
     if(n >= 0){
-        if(requests.fakultas == data[n].fakultasKegiatan){
-            return [...rekursifFakultas(requests,data,n-1),data[n]]
-        }else{
-            return rekursifFakultas(requests,data,n-1)
+        if(requests.fakultas === data[n].fakultasKegiatan){
+            result.push(data[n])
         }
+        return rekursifFakultas(requests,data,n-1,result)
     }else{
-        return [];
+        return result;
     }
 }
 
-function rekursifProdi(requests,data,n){
+function rekursifProdi(requests,data,n,result = []){
     if(n >= 0){
         if(requests.prodi === data[n].prodiKegiatan){
-            return [...rekursifProdi(requests,data,n-1),data[n]]
-        }else{
-            return rekursifProdi(requests,data,n-1)
+            result.push(data[n])
         }
+        return rekursifProdi(requests,data,n-1,result)
     }else{
-        return [];
+        return result;
     }
 }
 
-function rekursifMinatBakat(requests,data,n){
+function rekursifMinatBakat(requests,data,n,result = []){
     if(n >= 0){
-        if(requests.MinatBakat == data[n].minatBakatKegiatan){
-            return [...rekursifMinatBakat(requests,data,n-1),data[n]]
-        }else{
-            return rekursifMinatBakat(requests,data,n-1)
+        if(requests.MinatBakat === data[n].minatBakatKegiatan){
+            result.push(data[n])
         }
+        return rekursifMinatBakat(requests,data,n-1,result)
     }else{
-        return [];
+        return result;
     }
 }
 

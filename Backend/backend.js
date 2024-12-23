@@ -116,11 +116,10 @@ function prosesPencarian(requests,data){
         startRuntime = runtime.timeStart()
         if(dibagi != 0){
             dataTerfilter2 = Recursive.Recursive(requests,dataTerfilter2)
-            console.log(dataTerfilter2.length)
         }
         dataTerfilter =  Recursive.Recursive(requests,dataTerfilter)
-        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
         runtime.timeEnd(startRuntime,requests.JumlahData,'Rekursif')
+        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
     }else{
         const dibagi = dataTerfilter2.length
         startRuntime = runtime.timeStart()
@@ -128,8 +127,8 @@ function prosesPencarian(requests,data){
             dataTerfilter2 = Iterative.Iterative(requests,dataTerfilter2)
         }
         dataTerfilter =  Iterative.Iterative(requests,dataTerfilter)
-        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
         runtime.timeEnd(startRuntime,requests.JumlahData,'Iteratif')
+        dataHasilPencarian = dataTerfilter.concat(dataTerfilter2)
     }
     return dataHasilPencarian
 }

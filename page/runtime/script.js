@@ -7,6 +7,10 @@ const I75  = document.getElementById('7500-I')
 const R75  = document.getElementById('7500-R') 
 const I100 = document.getElementById('10000-I') 
 const R100 = document.getElementById('10000-R') 
+const body = document.body
+const datadiri = document.getElementById('DataDiri')
+const vito = document.getElementById('vito')
+const dzaky = document.getElementById('dzaky')
 
 function ambilDataRuntime(){
     const myHeaders = new Headers();
@@ -120,3 +124,21 @@ function jumlahkanWaktu(runtime){
     const millis = runtime.milliseconds*1000
     return (millis+micros)/1000
 }
+
+
+vito.addEventListener('mouseover',()=>{
+    datadiri.classList.remove('hidden')
+    datadiri.innerHTML = `<h1>Nurvito Dwi Yudha Laksono</h1>`
+})
+dzaky.addEventListener('mouseover',()=>{
+    datadiri.classList.remove('hidden')
+    datadiri.innerHTML = `<h1>Muhammad Dzaky Fazli</h1>`
+})
+vito.addEventListener('mouseout',()=>{
+    datadiri.classList.add('hidden')
+    datadiri.innerHTML = `<h1>Nurvito Dwi Yudha Laksono</h1>`
+})
+dzaky.addEventListener('mouseout',()=>{
+    datadiri.classList.add('hidden')
+    datadiri.innerHTML = `<h1>Muhammad Dzaky Fazli</h1>`
+})

@@ -1,0 +1,621 @@
+23-11-2024 12:3:4.781 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:3:17.54 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:3:17.59 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:3:17.65 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:3:22.718 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:3:22.719 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:5:55.308 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:5:59.409 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:5:59.410 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:6:25.764 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:6:29.179 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:6:29.180 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:6:29.195 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:7:5.10 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:7:5.12 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:7:5.50 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:8:6.885 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:8:10.947 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:8:10.948 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:8:11.229 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:9:37.130 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:9:50.491 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:9:50.492 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:9:50.509 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:13:39.231 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:13:42.127 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:13:42.128 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:13:42.142 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:16:45.699 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:16:48.31 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:16:48.32 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:16:48.54 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:16:49.625 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:16:49.627 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:16:49.631 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:16:51.839 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:16:51.841 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:16:51.846 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:16:53.346 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":false,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:16:53.347 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:16:53.351 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:17:39.721 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:17:41.242 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:17:41.250 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:17:41.257 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:17:46.530 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:18:10.64 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:18:11.574 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:18:11.579 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:18:11.584 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:18:17.792 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:18:17.793 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:17.799 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:20.311 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:18:20.312 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:20.315 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:21.464 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:18:21.465 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:21.467 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:23.214 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:18:23.215 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:23.218 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:25.129 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:18:25.136 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:25.130 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:26.545 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:18:26.546 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:26.549 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:27.969 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:18:27.970 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:27.974 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:29.314 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:18:29.317 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:18:29.315 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:18:31.747 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:19:32.238 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:20:4.854 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:20:4.856 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:20:4.863 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:20:6.609 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:20:6.610 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:6.613 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:8.605 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:20:8.606 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:8.610 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:9.986 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:20:9.987 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:9.990 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:11.82 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:20:11.83 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:11.85 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:13.36 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:20:13.37 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:13.42 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:13.947 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:20:13.948 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:13.950 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:15.228 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:20:15.229 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:15.231 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:17.151 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:20:17.152 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:20:17.154 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:20:19.185 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:36:38.485 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:36:39.890 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:36:43.315 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:36:43.317 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:36:43.320 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:36:45.65 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:36:45.66 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:45.74 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:47.304 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:36:47.306 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:47.309 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:49.914 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:36:49.915 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:49.917 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:51.546 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:36:51.547 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:51.550 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:54.323 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:36:54.324 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:54.330 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:55.903 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:36:55.904 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:55.939 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:57.509 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:36:57.510 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:57.514 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:36:58.974 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:36:58.975 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:36:58.977 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:1.63 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:37:37.235 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:37:37.404 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:37:37.409 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:37:37.414 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:37:42.236 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:37:42.237 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:42.246 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:43.532 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:37:43.533 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:43.538 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:45.90 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:37:45.92 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:45.95 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:46.124 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:37:46.125 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:46.129 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:48.334 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:37:48.335 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:48.340 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:49.628 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:37:49.630 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:49.634 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:51.438 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:37:51.439 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:51.443 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:52.509 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:37:52.511 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:37:52.513 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:37:56.228 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:38:29.566 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:38:29.917 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:38:29.920 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:38:29.923 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:38:32.530 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:38:32.531 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:32.537 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:35.371 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:35.370 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:38:35.374 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:37.114 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:38:37.115 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:37.118 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:39.308 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:38:39.309 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:39.313 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:41.564 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:38:41.565 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:41.571 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:43.92 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:38:43.93 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:43.98 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:44.813 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:38:44.814 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:44.819 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:46.261 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:38:46.262 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:38:46.265 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:38:48.168 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:42:27.939 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:42:29.275 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:42:29.276 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:42:29.279 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:42:32.542 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:42:32.542 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:32.545 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:33.759 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:42:33.759 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:33.761 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:35.174 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:42:35.175 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:35.176 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:36.976 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:42:36.977 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:36.979 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:40.650 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:42:40.651 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:40.654 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:41.970 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:42:41.970 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:41.972 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:43.281 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:42:43.281 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:43.283 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:45.210 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:42:45.210 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:42:45.211 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:42:47.420 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:43:8.279 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 12:43:8.280 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 12:43:8.281 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 12:43:10.546 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:43:10.546 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:10.548 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:11.978 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:43:11.978 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:11.979 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:13.394 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:43:13.395 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:13.396 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:14.794 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:43:14.795 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:14.796 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:16.595 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 12:43:16.596 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:16.597 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:17.599 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 12:43:17.600 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:17.601 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:18.804 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 12:43:18.806 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:18.805 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:20.45 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 12:43:20.45 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 12:43:20.46 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 12:43:21.665 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:44:22.697 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 12:44:24.223 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:21.516 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:36.9 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:36.173 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:36.335 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:36.503 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:48:36.674 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:49:11.567 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 12:56:21.260 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 14:58:32.370 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 14:58:34.842 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 14:58:36.591 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 14:58:36.592 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 14:58:36.593 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 14:58:40.274 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 14:58:40.275 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:4.395 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 14:59:4.396 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:28.99 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+23-11-2024 14:59:30.751 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 14:59:30.751 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:30.757 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:32.853 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 14:59:32.853 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:32.855 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:34.143 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 14:59:34.144 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:34.146 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:35.645 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 14:59:35.646 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:35.647 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:35.941 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 14:59:35.942 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:35.943 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:38.23 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 14:59:38.23 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:38.25 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:40.181 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 14:59:40.182 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:40.184 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:41.831 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 14:59:41.831 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:41.834 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:43.87 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 14:59:43.88 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 14:59:43.89 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 14:59:45.363 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:12:16.220 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:12:16.221 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:12:16.223 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:12:20.305 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:12:20.307 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:20.305 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:21.353 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:12:21.353 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:21.354 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:22.683 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:12:22.683 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:22.684 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:23.946 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:12:23.946 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:23.947 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:26.27 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:12:26.27 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:26.29 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:27.251 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:12:27.251 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:27.252 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:28.507 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:12:28.507 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:28.508 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:30.4 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:12:30.4 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:30.5 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:32.3 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:12:46.76 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:12:46.77 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:12:46.78 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:12:49.450 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:12:49.450 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:49.452 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:50.681 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:12:50.682 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:50.683 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:52.218 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:12:52.218 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:52.219 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:53.714 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:12:53.714 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:53.716 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:55.436 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:12:55.436 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:55.437 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:56.916 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:12:56.916 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:56.917 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:58.123 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:12:58.124 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:58.125 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:12:59.765 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:12:59.765 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:12:59.766 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:1.624 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:13:6.977 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:13:6.977 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:13:6.978 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:13:10.160 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:13:10.161 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:10.162 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:11.880 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:13:11.881 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:11.882 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:13.16 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:13:13.16 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:13.17 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:14.392 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:13:14.393 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:14.394 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:15.970 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:13:15.970 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:15.971 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:16.922 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:13:16.924 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:16.923 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:17.945 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:13:17.945 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:17.946 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:20.866 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:13:20.867 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:20.868 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:22.772 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:13:32.741 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:13:44.968 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:13:44.969 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:13:44.971 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:13:47.427 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:13:47.428 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:47.429 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:48.460 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:13:48.461 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:48.462 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:49.525 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:13:49.525 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:49.526 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:50.676 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:13:50.677 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:50.678 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:53.277 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:13:53.278 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:53.279 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:54.213 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:13:54.213 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:54.214 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:55.581 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:13:55.582 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:55.583 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:56.782 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:13:56.783 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:13:56.782 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:13:58.375 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:14:2.167 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:14:7.377 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:14:7.377 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:14:7.378 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:14:9.585 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:14:9.586 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:9.587 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:10.674 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:14:10.675 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:10.676 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:11.747 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:14:11.747 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:11.748 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:12.619 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:14:12.620 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:12.621 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:14.636 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:14:14.637 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:14.638 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:15.795 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:14:15.796 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:15.797 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:16.732 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:14:16.732 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:16.733 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:17.653 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:14:17.654 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:14:17.655 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:14:19.495 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:15:27.163 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:15:27.164 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:15:27.165 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:15:29.364 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:15:29.365 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:29.366 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:30.363 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:15:30.364 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:30.365 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:31.164 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:15:31.164 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:31.165 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:33.396 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:15:33.397 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:33.398 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:35.340 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:15:35.340 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:35.341 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:38.934 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:15:38.935 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:38.936 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:40.743 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:15:40.743 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:40.745 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:42.639 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:15:42.639 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:42.642 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:44.55 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:15:44.56 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:44.57 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:47.559 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:15:52.999 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:15:53.0 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:15:53.1 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:15:55.187 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:15:55.188 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:55.189 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:56.450 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:15:56.451 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:56.452 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:57.804 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:15:57.805 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:57.806 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:15:58.940 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:15:58.941 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:15:58.942 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:1.13 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:16:1.14 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:1.15 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:2.29 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:16:2.29 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:2.30 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:3.245 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:16:3.246 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:3.247 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:4.334 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:16:4.335 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:4.335 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:6.541 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:16:13.418 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:16:13.418 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:16:13.419 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:16:15.57 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:16:15.59 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:15.58 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:16.369 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:16:16.370 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:16.371 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:17.257 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:16:17.258 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:17.259 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:18.586 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:16:18.586 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:18.587 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:20.459 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:16:20.460 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:20.460 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:22.731 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:16:22.732 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:22.733 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:24.484 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:16:24.484 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:24.485 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:25.540 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:16:25.540 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:25.541 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:27.529 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:16:36.350 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:16:36.350 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:16:36.351 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:16:38.280 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:16:38.281 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:38.282 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:40.596 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:16:40.597 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:40.597 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:42.1 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:16:42.1 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:42.2 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:43.474 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:16:43.475 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:43.476 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:46.178 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:16:46.178 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:46.179 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:47.803 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:16:47.804 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:47.805 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:49.220 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:16:49.221 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:49.220 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:50.693 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:16:50.693 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:16:50.694 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:16:52.725 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:17:1.63 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:17:1.63 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:17:1.64 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:17:4.568 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:17:4.569 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:4.570 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:6.474 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:17:6.475 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:6.475 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:8.234 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:17:8.234 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:8.235 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:10.259 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:17:10.259 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:10.260 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:13.124 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:17:13.125 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:13.126 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:14.900 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:17:14.900 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:14.901 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:16.380 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:17:16.381 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:16.382 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:19.446 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:17:19.446 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:19.448 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:17:35.22 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:17:51.308 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:17:54.274 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:17:54.274 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:17:54.275 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 15:17:58.682 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:17:58.682 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:17:58.683 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:0.706 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:18:0.707 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:0.708 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:2.82 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:18:2.83 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:2.84 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:3.210 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":false,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:18:3.211 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:3.212 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:5.468 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":2500} telah diterima pada fungsi
+23-11-2024 15:18:5.469 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:5.470 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:6.740 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":5000} telah diterima pada fungsi
+23-11-2024 15:18:6.741 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:6.742 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:7.764 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":7500} telah diterima pada fungsi
+23-11-2024 15:18:7.764 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:7.765 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:8.940 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+23-11-2024 15:18:8.942 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
+23-11-2024 15:18:8.941 [cariKegiatan] BERHASIL    Data berhasil masuk
+23-11-2024 15:18:11.2 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 15:27:42.850 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 15:27:42.851 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 15:27:42.854 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 16:34:17.635 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 16:34:17.637 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 16:34:17.639 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+23-11-2024 17:18:56.601 [dataRuntime] BERHASIL    Data runtime berhasil dikirimkan ke cilent
+23-11-2024 23:28:56.312 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+23-11-2024 23:28:56.313 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+23-11-2024 23:28:56.314 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
