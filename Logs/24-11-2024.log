@@ -1,0 +1,19 @@
+24-11-2024 16:46:33.477 [Router] BERHASIL    Server Dimulai pada http://localhost:3000
+24-11-2024 16:46:52.49 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+24-11-2024 16:46:52.51 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+24-11-2024 16:46:52.53 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+24-11-2024 16:47:6.373 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+24-11-2024 16:47:6.373 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+24-11-2024 16:47:6.374 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+24-11-2024 16:47:7.557 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+24-11-2024 16:47:7.557 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+24-11-2024 16:47:7.558 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+24-11-2024 16:47:13.89 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+24-11-2024 16:47:13.88 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+24-11-2024 16:47:13.90 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+24-11-2024 16:47:23.453 [dataProdi] BERHASIL    data {"isActive":true,"fakultas":"FIF"} masuk kedalam fungsi
+24-11-2024 16:47:23.453 [dataProdi] BERHASIL    mengirim data prodi dari fakultas FIF
+24-11-2024 16:47:23.454 [dataMinatBakat] BERHASIL    Data minat bakat dikirim oleh fungsi
+24-11-2024 16:47:32.161 [cariKegiatan] BERHASIL    Data permintaan {"FakultasAktif":true,"fakultas":"FIF","ProdiAktif":true,"prodi":"S1 Informatika","MinatBakatAktif":true,"MinatBakat":"Pemrograman Embedded System","Recursive":true,"JumlahData":10000} telah diterima pada fungsi
+24-11-2024 16:47:32.161 [cariKegiatan] BERHASIL    Data berhasil masuk
+24-11-2024 16:47:32.167 [cariKegiatan] BERHASIL    Data kegiatan berhasil dikirim ke client
